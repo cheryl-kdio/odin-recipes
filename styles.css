@@ -13,6 +13,10 @@ img{
     height: auto;
 }
 
+img#accueil{
+    width: 90%;
+}
+
 h1{
     font-family:Verdana,cursive;
     font-size: 50px;
